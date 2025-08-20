@@ -21,8 +21,6 @@
 <img src="https://img.shields.io/badge/-Makefile-05122A?style=for-the-badge&color=333333">
 <img src="https://img.shields.io/badge/-Just-05122A?style=for-the-badge&color=00C7B7">
 <img src="https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git&logoColor=white&color=F05033">
-<img src="https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&color=E34F26">
-<img src="https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&color=1572B6">
 
 </div>
 <br>
