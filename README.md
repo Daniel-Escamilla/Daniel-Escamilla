@@ -43,10 +43,10 @@
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=Daniel-Escamilla&limit=1&theme=onedark" alt="Top Contributed Repo" />
 </p>
-<br>
+<!-- <br>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Daniel-Escamilla&theme=juicyfresh&column=5&margin-w=15&margin-h=15&title=MultiLanguage,Commit,Repositories,Experience,PullRequest" />
-</p>
+</p> -->
 
 <p align="center">
   <a href="mailto:descamil@student.42madrid.com">
